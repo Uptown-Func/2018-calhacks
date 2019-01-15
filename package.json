@@ -1,0 +1,34 @@
+{
+  "name": "2018-calhacks",
+  "version": "1.0.0",
+  "description": "ML Productivity Analysis",
+  "main": "index.js",
+  "scripts": {
+    "mongo": "mongod --dbpath ./data/db",
+    "express": "nodemon express.js --ignore tests",
+    "test": "concurrently \"npm run mongo\" \"npm run express\" \"npx cypress run\"",
+    "test:active": "concurrently \"npm run mongo\" \"npm run express\" \"npx cypress open\"",
+    "start": "concurrently \"npm run mongo\" \"npm run express\"",
+    "stop": "mongo admin --eval \"db.shutdownServer()\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guppy0130/uptown-func.git"
+  },
+  "author": "Uptown Func",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guppy0130/uptown-func/issues"
+  },
+  "homepage": "https://github.com/guppy0130/uptown-func#readme",
+  "devDependencies": {
+    "cypress": "^3.1.1",
+    "eslintrc": "^1.0.6"
+  },
+  "dependencies": {
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9",
+    "winston": "^3.1.0"
+  }
+}
