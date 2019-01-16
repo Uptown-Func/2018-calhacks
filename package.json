@@ -6,9 +6,9 @@
   "scripts": {
     "mongo": "mongod --dbpath ./data/db",
     "express": "nodemon express.js --ignore tests",
-    "test": "concurrently \"npm run mongo\" \"npm run express\" \"npx cypress run\"",
-    "test:active": "concurrently \"npm run mongo\" \"npm run express\" \"npx cypress open\"",
-    "start": "concurrently \"npm run mongo\" \"npm run express\"",
+    "test": "concurrently \"npm run express\" \"npx cypress run\"",
+    "test:active": "concurrently \"npm run express\" \"npx cypress open\"",
+    "start": "concurrently \"npm run express\"",
     "stop": "mongo admin --eval \"db.shutdownServer()\""
   },
   "repository": {
@@ -26,9 +26,11 @@
     "eslintrc": "^1.0.6"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
     "concurrently": "^4.0.1",
     "express": "^4.16.4",
     "mongoose": "^5.3.9",
+    "multer": "^1.4.1",
     "winston": "^3.1.0"
   }
 }
