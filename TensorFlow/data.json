@@ -1,0 +1,698 @@
+[
+  {
+    "Timestamp": "10/2/2018 23:17:04",
+    "number": 3,
+    "Today I was productive during these times": "11-12, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "12-13, 13-14",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/2/2018 23:45:54",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 13-14, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "14-15, 15-16, 16-17, 17-18, 18-19, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/2/2018 23:51:29",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 10-11, 14-15, 16-17, 17-18, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/2/2018 23:59:57",
+    "number": 2,
+    "Today I was productive during these times": "9-10, 10-11, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "14-15, 15-16, 16-17, 17-18, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/3/2018 23:21:08",
+    "number": 3,
+    "Today I was productive during these times": "11-12, 12-13, 13-14, 14-15, 15-16, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "16-17, 17-18",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/3/2018 23:52:13",
+    "number": 1,
+    "Today I was productive during these times": "8-9, 9-10, 11-12, 12-13, 13-14, 14-15, 17-18, 18-19, 19-20, 22-23",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 3-4, 10-11, 15-16, 16-17, 20-21, 21-22",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/4/2018 0:05:19",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 11-12, 13-14, 15-16, 17-18, 18-19, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "16-17, 19-20, 21-22",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/4/2018 23:22:53",
+    "number": 3,
+    "Today I was productive during these times": "11-12, 14-15, 15-16",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "12-13, 13-14, 17-18, 18-19, 19-20, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/4/2018 23:46:30",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 21-22",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "11-12, 18-19, 19-20, 20-21, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/4/2018 23:49:20",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 11-12, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/4/2018 23:49:43",
+    "number": 2,
+    "Today I was productive during these times": "12-13, 13-14, 14-15, 15-16, 18-19, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "9-10, 10-11, 11-12, 16-17, 17-18",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/5/2018 23:48:20",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 13-14, 14-15, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "19-20, 20-21, 21-22, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/5/2018 23:52:44",
+    "number": 2,
+    "Today I was productive during these times": "10-11, 11-12, 12-13, 13-14, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/5/2018 23:52:58",
+    "number": 1,
+    "Today I was productive during these times": "7-8, 8-9, 9-10, 10-11, 12-13, 13-14, 18-19, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 3-4, 16-17, 17-18, 19-20, 20-21",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/5/2018 23:59:32",
+    "number": 3,
+    "Today I was productive during these times": "11-12, 12-13, 13-14, 14-15",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "15-16, 16-17, 17-18, 21-22, 22-23",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/6/2018 23:07:29",
+    "number": 3,
+    "Today I was productive during these times": "9-10, 13-14, 14-15, 17-18, 18-19, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "10-11, 11-12, 12-13",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/6/2018 23:46:18",
+    "number": 4,
+    "Today I was productive during these times": "15-16, 16-17, 17-18, 18-19, 19-20, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "19-20, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/6/2018 23:46:48",
+    "number": 1,
+    "Today I was productive during these times": "15-16, 16-17, 17-18",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "11-12, 12-13, 13-14, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/7/2018 23:47:15",
+    "number": 2,
+    "Today I was productive during these times": "12-13, 13-14, 14-15, 15-16, 16-17, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 3-4",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/7/2018 23:47:26",
+    "number": 1,
+    "Today I was productive during these times": "21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "12-13, 13-14, 14-15, 15-16",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/7/2018 23:59:34",
+    "number": 3,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "13-14, 14-15, 19-20, 20-21",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/8/2018 0:07:10",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 15-16, 16-17, 17-18, 18-19, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "2-3, 3-4, 15-16, 16-17, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/8/2018 20:45:01",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 13-14, 17-18, 19-20, 20-21",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "20-21",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/8/2018 23:51:02",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 9-10, 11-12, 12-13, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "2-3, 13-14, 14-15, 15-16, 16-17, 17-18",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/9/2018 0:32:54",
+    "number": 4,
+    "Today I was productive during these times": "21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/9/2018 0:34:32",
+    "number": 3,
+    "Today I was productive during these times": "9-10, 10-11, 11-12, 12-13, 13-14, 14-15, 15-16",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "17-18",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/9/2018 0:46:59",
+    "number": 2,
+    "Today I was productive during these times": "10-11, 11-12, 12-13, 13-14, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 14-15, 15-16, 16-17, 17-18, 18-19",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/9/2018 23:49:13",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 14-15, 15-16, 16-17, 17-18, 20-21",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "10-11, 11-12, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/9/2018 23:51:34",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 1-2, 15-16, 16-17, 17-18, 18-19, 19-20",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/10/2018 20:04:23",
+    "number": 2,
+    "Today I was productive during these times": "0-1, 10-11, 11-12, 12-13, 13-14, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "did nothing but work all day %uD83D%uDE0E",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/10/2018 23:46:45",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 14-15, 15-16, 17-18, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "10-11, 13-14, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/11/2018 0:34:46",
+    "number": 4,
+    "Today I was productive during these times": "11-12, 13-14, 15-16, 16-17, 17-18, 18-19",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/11/2018 23:46:10",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "15-16, 16-17, 17-18, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/11/2018 23:46:35",
+    "number": 2,
+    "Today I was productive during these times": "23-0",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "9-10, 10-11, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/11/2018 23:46:41",
+    "number": 1,
+    "Today I was productive during these times": "21-22",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "11-12, 19-20, 20-21",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/12/2018 23:48:53",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 13-14, 14-15, 15-16, 17-18, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 13-14, 14-15, 15-16, 16-17, 17-18",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/13/2018 12:43:24",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 9-10, 10-11, 11-12, 12-13, 13-14, 14-15, 17-18, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "15-16, 16-17",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/13/2018 23:58:31",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 13-14, 14-15, 15-16, 16-17, 17-18",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "3-4, 11-12, 12-13, 18-19, 19-20, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/14/2018 2:53:19",
+    "number": 2,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "8-9, 9-10, 10-11, 11-12, 12-13, 16-17, 17-18, 18-19, 19-20",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/14/2018 11:17:40",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 3-4, 4-5, 5-6, 6-7, 19-20",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "13-14, 14-15, 15-16, 16-17",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/14/2018 23:52:06",
+    "number": 2,
+    "Today I was productive during these times": "15-16, 16-17, 17-18, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 3-4, 20-21, 21-22, 22-23",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/14/2018 23:54:33",
+    "number": 4,
+    "Today I was productive during these times": "13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 13-14, 14-15, 18-19, 19-20, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/15/2018 17:56:33",
+    "number": 1,
+    "Today I was productive during these times": "22-23",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "13-14, 14-15, 15-16",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/16/2018 0:08:48",
+    "number": 4,
+    "Today I was productive during these times": "13-14, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "11-12, 12-13, 13-14, 14-15, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/16/2018 0:14:45",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 13-14, 14-15, 15-16, 16-17, 17-18",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "11-12",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/16/2018 23:51:51",
+    "number": 1,
+    "Today I was productive during these times": "14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/17/2018 0:30:02",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 11-12, 12-13, 14-15, 15-16, 16-17, 17-18, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 14-15, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/17/2018 0:40:44",
+    "number": 2,
+    "Today I was productive during these times": "17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 9-10, 10-11, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/17/2018 23:50:47",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 3-4, 4-5, 11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "18-19, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/17/2018 23:56:58",
+    "number": 2,
+    "Today I was productive during these times": "10-11, 11-12, 12-13, 13-14, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 14-15, 15-16, 16-17, 17-18, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/18/2018 0:35:42",
+    "number": 4,
+    "Today I was productive during these times": "11-12, 13-14, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/18/2018 23:48:22",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 11-12, 12-13, 13-14, 14-15, 16-17, 17-18, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/19/2018 0:04:24",
+    "number": 2,
+    "Today I was productive during these times": "9-10, 10-11, 11-12, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "did nothing but work all day %uD83D%uDE0E",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/19/2018 14:14:05",
+    "number": 1,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "17-18, 18-19, 19-20, 20-21, 21-22, 22-23",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/19/2018 23:47:31",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 12-13, 13-14, 14-15, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 11-12, 12-13, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/20/2018 11:09:36",
+    "number": 1,
+    "Today I was productive during these times": "10-11, 11-12, 12-13, 13-14, 15-16, 16-17, 17-18, 18-19, 19-20, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "did nothing but work all day %uD83D%uDE0E",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/21/2018 0:03:34",
+    "number": 2,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "7-8, 8-9, 9-10, 10-11, 11-12, 12-13",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/21/2018 1:20:41",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/21/2018 23:51:59",
+    "number": 4,
+    "Today I was productive during these times": "11-12, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 12-13, 13-14, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/21/2018 23:53:07",
+    "number": 2,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "10-11, 11-12, 12-13, 13-14, 14-15, 15-16, 17-18, 18-19, 19-20, 20-21, 21-22, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/22/2018 0:06:35",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 13-14, 14-15, 16-17, 17-18, 18-19, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "20-21, 21-22",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/23/2018 0:30:30",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 14-15, 15-16, 16-17, 17-18, 18-19, 20-21, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/23/2018 14:35:46",
+    "number": 1,
+    "Today I was productive during these times": "10-11, 11-12, 12-13, 21-22",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "14-15, 15-16, 16-17",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/23/2018 23:48:24",
+    "number": 2,
+    "Today I was productive during these times": "16-17, 17-18, 18-19, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "12-13, 13-14, 14-15, 15-16, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/23/2018 23:52:22",
+    "number": 1,
+    "Today I was productive during these times": "17-18, 18-19, 19-20, 20-21, 21-22",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "11-12, 17-18, 18-19",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/24/2018 23:56:03",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 3-4, 12-13, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 21-22, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "22-23",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/25/2018 1:25:20",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 11-12, 12-13, 13-14, 15-16, 16-17",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "0-1, 1-2",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/25/2018 20:32:00",
+    "number": 2,
+    "Today I was productive during these times": "9-10, 10-11, 13-14, 14-15, 15-16",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/26/2018 0:00:32",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "13-14, 14-15, 17-18, 18-19, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 1
+  },
+  {
+    "Timestamp": "10/26/2018 10:02:07",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 22-23",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "11-12, 12-13, 13-14, 21-22, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/26/2018 23:48:32",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 11-12, 12-13, 13-14, 14-15, 15-16, 19-20, 20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/27/2018 0:12:22",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 3-4, 10-11, 11-12, 12-13, 13-14, 14-15, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "15-16, 16-17, 17-18, 18-19, 19-20",
+    "I could have procrastinated less today": 3
+  },
+  {
+    "Timestamp": "10/27/2018 18:11:38",
+    "number": 2,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "12-13, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "10/28/2018 13:31:22",
+    "number": 1,
+    "Today I was productive during these times": "13-14, 14-15, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "3-4, 4-5, 5-6",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/28/2018 23:46:44",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 12-13, 13-14, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/29/2018 3:34:21",
+    "number": 1,
+    "Today I was productive during these times": "12-13, 15-16, 18-19, 19-20, 20-21",
+    "Overall, I was satisfied with my productivity for today": 1,
+    "I was procrastinating during these times": "13-14, 14-15, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "10/29/2018 23:54:48",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 2-3, 3-4, 4-5, 10-11, 11-12, 12-13, 14-15, 15-16, 16-17, 17-18, 20-21",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "13-14",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/30/2018 0:03:09",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 14-15, 15-16, 16-17, 17-18, 18-19, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 12-13, 13-14, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/30/2018 0:06:32",
+    "number": 2,
+    "Today I was productive during these times": "12-13, 15-16, 16-17, 17-18, 18-19, 19-20, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "did nothing but work all day %uD83D%uDE0E",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/30/2018 23:54:37",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 10-11, 11-12, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21",
+    "Overall, I was satisfied with my productivity for today": 3,
+    "I was procrastinating during these times": "20-21",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "10/31/2018 0:02:06",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 11-12, 12-13, 13-14",
+    "I could have procrastinated less today": 1
+  },
+  {
+    "Timestamp": "10/31/2018 23:49:45",
+    "number": 1,
+    "Today I was productive during these times": "0-1, 1-2, 10-11, 11-12, 12-13, 13-14, 14-15, 16-17, 17-18",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "did nothing but work all day %uD83D%uDE0E",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "11/1/2018 2:08:36",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 11-12, 12-13, 13-14, 15-16, 16-17, 17-18, 18-19, 19-20, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 2-3, 12-13, 13-14, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "11/1/2018 23:48:56",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 4,
+    "I was procrastinating during these times": "0-1, 1-2, 10-11, 11-12, 16-17, 17-18, 18-19, 22-23, 23-0",
+    "I could have procrastinated less today": 2
+  },
+  {
+    "Timestamp": "11/2/2018 0:07:09",
+    "number": 2,
+    "Today I was productive during these times": "did no work today %uD83D%uDE0E",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "14-15, 15-16, 16-17, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "I could have procrastinated less today": 5
+  },
+  {
+    "Timestamp": "11/2/2018 3:12:49",
+    "number": 1,
+    "Today I was productive during these times": "20-21, 21-22, 22-23",
+    "Overall, I was satisfied with my productivity for today": 2,
+    "I was procrastinating during these times": "16-17, 17-18, 18-19, 23-0",
+    "I could have procrastinated less today": 4
+  },
+  {
+    "Timestamp": "11/3/2018 1:12:19",
+    "number": 4,
+    "Today I was productive during these times": "0-1, 1-2, 14-15, 15-16, 16-17, 17-18, 18-19, 19-20, 20-21, 21-22, 22-23, 23-0",
+    "Overall, I was satisfied with my productivity for today": 5,
+    "I was procrastinating during these times": "0-1, 1-2, 13-14, 22-23, 23-0",
+    "I could have procrastinated less today": 1
+  }
+]
