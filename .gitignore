@@ -189,3 +189,6 @@ data/**/sequences.txt
 /node_modules/
 /data/
 *.mp4
+
+# Mac stuff
+.DS_Store
